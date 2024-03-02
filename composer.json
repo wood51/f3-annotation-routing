@@ -1,0 +1,10 @@
+{
+    "name": "wood51/f3-annotationr-routing",
+    "description": "A plugin to set route with docblocks",
+    "keywords": ["F3","fatfree","route","annotation","php"],
+    "homepage": "https://github.com/wood51/f3-annotationr-routing",
+    "license": "MIT",
+    "autoload": {
+		"classmap": ["lib/"]
+    }
+}
