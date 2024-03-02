@@ -1,4 +1,4 @@
-# f3-AnnotationRouting
+# f3-annotation-routing
 
 Configurationn des routes de fat-free-framework avec des Dockblocks
 
